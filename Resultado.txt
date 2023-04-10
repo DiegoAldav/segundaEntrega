@@ -1,0 +1,8 @@
+package trabajoIntegrador2;
+
+public enum Resultado {
+    ganador,
+    perdedor,
+    empate,
+    desconocido;
+}
